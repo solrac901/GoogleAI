@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons Effects",
+  "description": "A formal presentation applet containing Snowflake and Balloon falling/floating animation triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
